@@ -1,7 +1,8 @@
 🛸 UFO Sightings Analysis Dashboard
 This project explores 80,000+ UFO sighting reports worldwide, visualized using Power BI. The dashboard provides insights into the trends, patterns, and characteristics of UFO sightings over time, by country, and by shape.
 
-📊 Dashboard Overview
+📊 Dashboard Overview 
+link: https://app.powerbi.com/reportEmbed?reportId=e41ad366-79fd-4084-89cc-4ae5ed624339&autoAuth=true&ctid=63c3c9c1-e824-413f-b435-2f0cabb2828f
 1️⃣ Key Metrics
 Total Reports: 96,700+
 
