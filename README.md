@@ -33,6 +33,8 @@ Global Sightings Map: Most sightings are concentrated in the USA, with additiona
 
 Shapes by Reports: "Light" and "Triangle" are the most reported UFO shapes.
 
+![Dashboard Overview](ufo.png)
+[Download Full Dashboard PDF](ufo.pdf)
 
 🔑 Key Insights
 📈 2000s Surge: UFO reports skyrocketed between 1995–2010 before gradually declining.
