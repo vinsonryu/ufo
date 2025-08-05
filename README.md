@@ -1,12 +1,10 @@
 🛸 UFO Sightings Analysis Dashboard
-This project explores 80,000+ UFO sighting reports worldwide, visualized using Power BI. The dashboard provides insights into the trends, patterns, and characteristics of UFO sightings over time, by country, and by shape.
+This project is a data analysis and visualization of 9,670 UFO sighting reports sourced from Kaggle. The analysis explores temporal trends, geographical distribution, and sighting characteristics to uncover fascinating insights about global UFO sightings.
 
 📊 Dashboard Overview 
 link: https://app.powerbi.com/reportEmbed?reportId=e41ad366-79fd-4084-89cc-4ae5ed624339&autoAuth=true&ctid=63c3c9c1-e824-413f-b435-2f0cabb2828f
 1️⃣ Key Metrics
 Total Reports: 96,700+
-
-Countries Covered: USA, Canada, UK, Germany, Australia
 
 Time Span: 1900 – 2014
 
@@ -38,20 +36,36 @@ Shapes by Reports: "Light" and "Triangle" are the most reported UFO shapes.
 [Download Full Dashboard PDF](ufo.pdf)
 
 🔑 Key Insights
-📈 2000s Surge: UFO reports skyrocketed between 1995–2010 before gradually declining.
+Sightings Growth: UFO sightings surged after the 1980s, peaked in the 1990s, and declined in the 2010s—possibly due to public disinterest or better scientific explanations.
 
-🌍 Geographic Concentration: 70%+ of sightings are from the USA.
+Geographic Distribution:
 
-⏱ Longest Duration Shapes: "Cone" and "Sphere" shapes tend to be observed the longest.
+USA dominates with 65K+ reports, followed by Canada at only 3K reports.
 
-☀ Seasonality: More sightings are reported in summer months, possibly due to clearer skies and outdoor activity.
+Zero reports from Russia, Greenland, and several regions in Africa, the Middle East, and Asia.
 
-🛠 Tech Stack
-Data Visualization: Power BI
+Sightings decrease as we move eastward and northward.
 
-Data Cleaning: Power Query, DAX
+Sighting Types:
 
-Dataset: UFO Sightings Dataset (~80K records)
+Light-like sightings are the most common (16K+ reports).
 
-Other Tools: Python (optional, for preprocessing)
+Followed by triangle and circle shapes (~7K each).
+
+Seasonality:
+
+Peak sightings occur in summer, while winter (Feb–Apr) sees the fewest.
+
+Flash, cone, light, and fireball are most common in peak months.
+
+Longest Recorded Sightings:
+
+In 1993, sphere-shaped sightings lasted 97M+ seconds (across only 4 sightings).
+
+Interestingly, the longest sightings were not in the U.S. but in Great Britain (Finley & Greenbrier).
+
+Average Duration: Crescent-shaped UFOs are observed for the longest average time.
+
+
+
 
